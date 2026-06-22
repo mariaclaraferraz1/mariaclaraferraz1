@@ -2,17 +2,16 @@
 Estudante do 3º ano do Ensino Médio Técnico de Desenvolvimento de Sistemas.
 
 ## Apresentação Pessoal
-Tenho 17 anos e estudo tecnologia e resolução de problemas através do código. Atualmente, busco construir uma base sólida de conhecimento para evoluir continuamente como profissional.
+Tenho 17 anos e estudo tecnologia da informação. Atualmente, busco evoluir como profissional.
 
-🏫 Instituição: Aluno da ETEC (Ensino Médio Integrado ao Técnico).
-🎓 Curso: Técnico em Desenvolvimento de Sistemas (3º Ano).
+**🏫 Instituição:** Aluno da ETEC (Ensino Médio Integrado ao Técnico).
+**🎓 Curso:** Técnico em Desenvolvimento de Sistemas (3º Ano).
 
 ## Áreas de Interesse na Tecnologia
 Front-end
 
 ## Tecnologias e Ferramentas
 Já tive contato/desenvolvi projetos com:
-
 * **Linguagens de Programação:** JavaScript, PHP e Kotlin.
 * **Tecnologias web:** HTML5, CSS3, Express.js e Node.js.
 * **Banco de Dados:** MySQL.
