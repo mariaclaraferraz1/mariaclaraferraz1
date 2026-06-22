@@ -4,8 +4,8 @@ Estudante do 3º ano do Ensino Médio Técnico de Desenvolvimento de Sistemas.
 ## Apresentação Pessoal
 Tenho 17 anos e estudo tecnologia da informação. Atualmente, busco evoluir como profissional.
 
-**🏫 Instituição:** Aluno da ETEC (Ensino Médio Integrado ao Técnico).
-**🎓 Curso:** Técnico em Desenvolvimento de Sistemas (3º Ano).
+**Instituição:** Aluno da ETEC João Belarmino (Ensino Médio Integrado ao Técnico).
+**Curso:** Técnico em Desenvolvimento de Sistemas (3º Ano).
 
 ## Áreas de Interesse na Tecnologia
 Front-end
@@ -25,7 +25,7 @@ Front-end
 
 * **Tela de Login Responsiva**
   * **Descrição:** Desenvolvimento de uma interface de autenticação moderna, com validação de campos (como e-mail e senha).
-  * **Tecnologias utilizadas:**
+  * **Tecnologias utilizadas:** HTML5, CSS3 e JavaScript.
 
 ## Objetivos Profissionais
 * **Curto Prazo:** Concluir o Ensino Técnico na ETEC.
