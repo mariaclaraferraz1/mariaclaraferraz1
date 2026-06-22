@@ -34,7 +34,5 @@ Análise de Dados
 
 ## Perspectivas para o Futuro
 
-## 🔮 Perspectivas para o Futuro
-
 Pretendo ingressar em uma universidade para dar continuidade à minha formação acadêmica e ao meu desenvolvimento profissional. Acredito que a combinação entre a experiência prática do estágio e o aprofundamento dos estudos no ensino superior será a base para consolidar minha carreira e alcançar os meus objetivos.
 
