@@ -11,15 +11,15 @@ Tenho 17 anos e estudo tecnologia da informação. Atualmente, busco evoluir com
 Front-end
 
 ## Tecnologias e Ferramentas
-Já tive contato/desenvolvi projetos com:
+### Já tive contato/desenvolvi projetos com:
 * **Linguagens de Programação:** JavaScript, PHP e Kotlin.
 * **Tecnologias web:** HTML5, CSS3, Express.js e Node.js.
 * **Banco de Dados:** MySQL.
 * **Ferramentas e Plataformas:** Git, GitHub, VS Code.
 
-## Tecnologias que gostaria de aprender ou aprofundar meus conhecimentos no futuro
-Desenvolvimento Web Front-End
-Análise de Dados
+### Tecnologias que gostaria de aprender ou aprofundar meus conhecimentos no futuro
+* **Desenvolvimento Web Front-End**
+* **Análise de Dados**
 
 ## Projetos Desenvolvidos
 
